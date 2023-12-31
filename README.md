@@ -1,0 +1,1 @@
+Welcome to the project I created. In this project, I collected hotel information in Singapore and Thailand from the booking website and saved them in csv. Through the data set, I made the corresponding word vector.
